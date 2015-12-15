@@ -1,15 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
 using namespace std;
-void stampa ()
-{
-    int i,n;
-    int A[i];
-    for(n=0;n<i;n++)
-    {
-        cout << A[n] << endl;
-    }
-}
 int main()
 {
     int i,n;
